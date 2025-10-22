@@ -1,0 +1,7 @@
+tweet_id,text,airline_sentiment,airline,tweet_created,tweet_location,user_timezone
+1,I love flying with this airline! Great service.,positive,AirlineA,2025-10-01 10:05:00,New York,EST
+2,"Terrible experience, flight delayed for 5 hours.",negative,AirlineB,2025-10-02 12:30:00,Los Angeles,PST
+3,The staff were kind and helpful.,positive,AirlineA,2025-10-03 14:10:00,Chicago,CST
+4,Seats were uncomfortable and food was bad.,negative,AirlineC,2025-10-04 16:00:00,Houston,CST
+5,"Average experience, nothing special.",neutral,AirlineB,2025-10-05 18:25:00,Dallas,CST
+6,Amazing flight! Smooth journey and friendly crew.,positive,AirlineA,2025-10-06 20:40:00,Miami,EST
